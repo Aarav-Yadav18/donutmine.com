@@ -1,0 +1,131 @@
+{
+  "users": {
+    ".ogcr7siu": {
+      "username": ".OGCR7siu",
+      "balance": 0,
+      "createdAt": "2026-09-08T16:19:17.975Z"
+    },
+    "ogcr7siu": {
+      "username": "ogcr7siu",
+      "balance": 0,
+      "createdAt": 1788972926806
+    },
+    "zynqelyt": {
+      "username": "ZynqelYT",
+      "balance": 100000,
+      "createdAt": 1789283214754
+    }
+  },
+  "transactions": [
+    {
+      "id": "fbde8ee2b9c7cc3a6f7a822fa2f9c3e6",
+      "username": ".ogcr7siu",
+      "amount": 900000,
+      "type": "withdraw",
+      "description": "Withdrawal paid by ZynqelYT",
+      "createdAt": "2026-09-09T16:24:15.325Z"
+    },
+    {
+      "id": "6b91db47bb73362dbfbcb704336735e0",
+      "username": ".ogcr7siu",
+      "amount": 100000,
+      "type": "withdraw",
+      "description": "Withdrawal paid by ZynqelYT",
+      "createdAt": "2026-09-09T16:23:33.988Z"
+    },
+    {
+      "id": "26f2b4b65b88f308690b47f45526bb9e",
+      "username": ".ogcr7siu",
+      "amount": 1000000,
+      "type": "deposit",
+      "description": "Minecraft payment to ZynqelYT",
+      "createdAt": "2026-09-09T16:23:26.340Z"
+    },
+    {
+      "id": "f016a93aaf1197a781ece5fbf302d7b8",
+      "username": ".ogcr7siu",
+      "amount": 100000,
+      "type": "withdraw",
+      "description": "Withdrawal paid by ZynqelYT",
+      "createdAt": "2026-09-09T16:12:31.518Z"
+    },
+    {
+      "id": "dfb03087111d409db7ec566b00b107d5",
+      "username": ".ogcr7siu",
+      "amount": 100000,
+      "type": "deposit",
+      "description": "Minecraft payment to ZynqelYT",
+      "createdAt": "2026-09-09T16:12:21.399Z"
+    },
+    {
+      "id": "5c2f5792291520cb73e857d3c87df793",
+      "username": ".ogcr7siu",
+      "amount": 71,
+      "type": "withdraw",
+      "description": "Withdrawal paid by ZynqelYT",
+      "createdAt": "2026-09-09T15:04:00.355Z"
+    },
+    {
+      "id": "9369b82d237ee3afa2c0a41f288dbefb",
+      "username": ".ogcr7siu",
+      "amount": 71,
+      "type": "deposit",
+      "description": "Minecraft payment to ZynqelYT",
+      "createdAt": "2026-09-09T15:03:54.989Z"
+    },
+    {
+      "id": "f66a7484d9cfcdf0ae5ae9204e622e6a",
+      "username": ".OGCR7siu",
+      "amount": 113,
+      "type": "withdraw",
+      "description": "DonutMine withdrawal request",
+      "createdAt": "2026-09-09T15:01:59.602Z"
+    },
+    {
+      "id": "271109fe2b70afdc41c60c879e98f442",
+      "username": ".OGCR7siu",
+      "amount": 45,
+      "type": "deposit",
+      "description": "Minecraft payment to ZynqelYT",
+      "createdAt": "2026-09-09T14:59:31.815Z"
+    },
+    {
+      "id": "fc7ce8a200b434d07781cbcc94e7397a",
+      "username": ".OGCR7siu",
+      "amount": 68,
+      "type": "deposit",
+      "description": "Minecraft payment to ZynqelYT",
+      "createdAt": "2026-09-08T16:19:40.557Z"
+    },
+    {
+      "id": "a7a2ab8ed2dba4e4b081dd75a63a34e1",
+      "type": "verification",
+      "username": "ogcr7siu",
+      "amount": 861,
+      "createdAt": 1788972926806
+    },
+    {
+      "id": "8bb414521e8c39b48ece775e0acc9efb",
+      "type": "verification",
+      "username": "ogcr7siu",
+      "amount": 554,
+      "createdAt": 1788974054080
+    },
+    {
+      "id": "3c458a2fc52f7fe02ec100c24e5708b2",
+      "type": "verification",
+      "username": "ogcr7siu",
+      "amount": 914,
+      "createdAt": 1789015496014
+    },
+    {
+      "id": "79a42cf44a4a7467aa18983fce5faabe",
+      "type": "staff_balance",
+      "username": "ZynqelYT",
+      "amount": 100000,
+      "description": "Staff balance credit by admin123@gmail.com",
+      "createdAt": 1789283229566
+    }
+  ],
+  "promoCodes": {}
+}
